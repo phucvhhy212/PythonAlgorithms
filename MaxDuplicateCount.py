@@ -1,3 +1,4 @@
+# max duplicate character count in a string
 def MaxDuplicateCount(input):
     count = 1
     maxCount = 1
